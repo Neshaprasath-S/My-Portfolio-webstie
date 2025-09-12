@@ -1,0 +1,135 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 2000
+>>
+stream
+BT
+/F1 24 Tf
+100 700 Td
+(John Doe) Tj
+0 -30 Td
+/F1 16 Tf
+(Full Stack Developer) Tj
+0 -40 Td
+/F1 12 Tf
+(Email: john.doe@email.com) Tj
+0 -20 Td
+(Phone: +1 (555) 123-4567) Tj
+0 -20 Td
+(Location: San Francisco, CA) Tj
+0 -40 Td
+/F1 18 Tf
+(Professional Summary) Tj
+0 -30 Td
+/F1 12 Tf
+(Passionate full-stack developer with 5+ years of experience in creating) Tj
+0 -15 Td
+(digital solutions that make a difference. Specialized in modern web) Tj
+0 -15 Td
+(technologies with a focus on user experience and innovation.) Tj
+0 -40 Td
+/F1 18 Tf
+(Technical Skills) Tj
+0 -30 Td
+/F1 12 Tf
+(• Frontend: HTML5, CSS3, JavaScript, React, Vue.js) Tj
+0 -15 Td
+(• Backend: Node.js, Python, Express, FastAPI) Tj
+0 -15 Td
+(• Databases: MongoDB, PostgreSQL, MySQL) Tj
+0 -15 Td
+(• Cloud & DevOps: AWS, Docker, CI/CD) Tj
+0 -15 Td
+(• Tools: Git, VS Code, Figma, Postman) Tj
+0 -40 Td
+/F1 18 Tf
+(Experience) Tj
+0 -30 Td
+/F1 14 Tf
+(Senior Full Stack Developer | TechCorp Inc. | 2022-Present) Tj
+0 -20 Td
+/F1 12 Tf
+(• Led development of e-commerce platform serving 100K+ users) Tj
+0 -15 Td
+(• Implemented microservices architecture reducing response time by 40%) Tj
+0 -15 Td
+(• Mentored junior developers and conducted code reviews) Tj
+0 -30 Td
+/F1 14 Tf
+(Full Stack Developer | WebSolutions Ltd. | 2020-2022) Tj
+0 -20 Td
+/F1 12 Tf
+(• Developed responsive web applications using React and Node.js) Tj
+0 -15 Td
+(• Collaborated with design team to implement pixel-perfect UIs) Tj
+0 -15 Td
+(• Optimized database queries improving performance by 60%) Tj
+0 -40 Td
+/F1 18 Tf
+(Education) Tj
+0 -30 Td
+/F1 12 Tf
+(Bachelor of Science in Computer Science) Tj
+0 -15 Td
+(University of California, Berkeley | 2016-2020) Tj
+0 -15 Td
+(Relevant Coursework: Data Structures, Algorithms, Software Engineering) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000274 00000 n 
+0000002340 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+2440
+%%EOF
+
